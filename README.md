@@ -28,7 +28,7 @@ In the program, I am learning data visualization and machine learning techniques
 - I'm Gene, a senior college student🧑‍🎓 & software engineer 💻  
   
 
-- 🔭 I’m currently working at ITRI [Front-End Developer Intern](https://www.itri.org.tw/english/)  
+- 🔭 I’m currently working at ITRI as a [Front-End Developer Intern](https://www.itri.org.tw/english/)  
   
 
 - 🌱 I’m currently learning  Exploratory Data Analysis & Visualization at [Cuny Tech Prep](https://cunytechprep.org/)   
